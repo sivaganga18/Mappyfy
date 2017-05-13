@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/siva/Documents/Siva/freelance/mappyfy/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/siva/Documents/Siva/freelance/mappyfy/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/node_modules/react-native/React/Executors/RCTJSCErrorHandling.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/node_modules/react-native/React/Base/RCTUtils.h

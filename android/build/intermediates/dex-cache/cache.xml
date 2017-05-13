@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_c052b63a53b037d139717a8c2324452710251c18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.11.0_711b0783ea9401230d0807bf8440121adb5a6979.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_75ca06b981034dc29208ac2d1b2e65ff22a72a8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_0610967d3d95bb7cbf38391b46d7cfa54f614d53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/exploded-aar/mappyfy/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/mappyfy-react-native-vector-icons-unspecified_eff28ceb3e4eff0a66d11d787565ee9572ca0f9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.11.0_05b5944faad2568092ff6d9f83548c4efbfb77c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.11.0_03ece7f4dc1a5f089748e30d32ec0dae7ef61164.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_5d03dd013635cc43b35ebcbf9c26747b269969d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_aec620317095785f64d49bed4b767cfd064e951e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="962b06c207e808c0557ffd6163ac584025a96021">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.42.0_db37ca4a9d06285abdc116bdd83f0df9dbc89351.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.11.0_6701ee00706e85addfa7245d06af2950cba19927.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_d70f5eb1beeaa9eb76dd302fc42624f2cc8a9b89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/exploded-aar/mappyfy/react-native-maps/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dfe415137a847f99a59cee27485aea5dedd9b09c">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/mappyfy-react-native-maps-unspecified_eff501b889d7d3433cc2772408aa268c5c57573c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_865ee0fe178b94fc8db526228f8c34a65322fc02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_76a8e5d2130d818ecbcfc2971e0607185fdc9fe6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_09dd51b58dc8adb12cf8c39bbb065e7a63479fb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_644501d38d1599519f582be7134591b931c259d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.0.1_d29edb4f4cb657030313c110626415b1d20d7c28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_089cfd6fcbcdeea560050da7f22c4d319b8fc0cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_84d56d1489020e00258f3cc9f9ff64c7861a435e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_8d8e055314070c2791c946a1a5c38e53bc622192.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_e716bbadf69e5df8c1d2c0d82502faeb1d3a012b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_dccfe9b296c48f0b2ce6a8d7ce3da9c0e6d87c45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_f0aee4b748821179299d0e0cc930577b0fa0585f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_a0fd3a0a468fae03f8b12617e688a93ab749c9f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.11.0_b89a6e374eea2f65aec121d61dbd21d5676167ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_5ccdfecadf767fdb5709d6948e49c03904bae62b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_f231c35a7a638fcd1114b587a756231fd32b01a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_4b993c5cd5e7cada9ed0719c5df80b9f48232f08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/siva/Documents/Siva/freelance/mappyfy/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_6db9090c8f968292f98374567365deb55d9ebaa2.jar" />
+    </item>
+
+</items>

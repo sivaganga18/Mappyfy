@@ -1,0 +1,15 @@
+dependencies: \
+  /Users/siva/Documents/Siva/freelance/mappyfy/node_modules/react-native/Libraries/Network/RCTHTTPRequestHandler.mm \
+  /Users/siva/Documents/Siva/freelance/mappyfy/node_modules/react-native/Libraries/Network/RCTHTTPRequestHandler.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/node_modules/react-native/Libraries/Network/RCTNetworking.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/siva/Documents/Siva/freelance/mappyfy/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h
